@@ -1,0 +1,15 @@
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\bin\Debug\Lab0401 Shop Application.exe.config
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\bin\Debug\Lab0401 Shop Application.exe
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\bin\Debug\Lab0401 Shop Application.pdb
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\obj\Debug\Lab0401 Shop Application.csproj.AssemblyReference.cache
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\obj\Debug\Lab0401_Shop_Application.Form1.resources
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\obj\Debug\Lab0401_Shop_Application.Properties.Resources.resources
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\obj\Debug\Lab0401 Shop Application.csproj.GenerateResource.cache
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\obj\Debug\Lab0401 Shop Application.csproj.CoreCompileInputs.cache
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\obj\Debug\Lab0401 Shop Application.exe
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\obj\Debug\Lab0401 Shop Application.pdb
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\bin\Debug\EntityFramework.dll
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\bin\Debug\EntityFramework.SqlServer.dll
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\bin\Debug\EntityFramework.xml
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\bin\Debug\EntityFramework.SqlServer.xml
+E:\1204311-APD\Lab\Lab0401 Shop Application\Lab0401 Shop Application\obj\Debug\Lab0401 Shop Application.csproj.CopyComplete
